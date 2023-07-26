@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9.1">
+	<ConfigVersions>
+		<Metadata name="Catalog.Кабинеты" id="4e18953e-268d-42cd-8629-01db7882f110" configVersion="5525f5822e97fc4aa22e63cc42ca125e00000000"/>
+		<Metadata name="Catalog.Предметы" id="5c74c738-8019-45b5-bca9-b1fc91833075" configVersion="980fb542d23a2241957e0eef27d23d4400000000"/>
+		<Metadata name="Catalog.УчебныеДни" id="bb341e55-db58-4731-9c6c-a3a313b6134f" configVersion="fd99aa15a6355840926830fe2086d2f400000000"/>
+		<Metadata name="Catalog.Учителя" id="dfb00e17-8fe9-4842-88f4-d9fe69c0cb87" configVersion="08132e692eaa7040ad6864eec2a73b9800000000"/>
+		<Metadata name="Configuration.Дневник" id="9d3403f7-4620-4770-b588-3832516318b1" configVersion="0611c3ac729a43468ec648cf32deb51200000000"/>
+		<Metadata name="Configuration.Дневник.MainSectionCommandInterface" id="ff1c2005-4f78-464c-bb5e-b1de22f1e16a.9" configVersion="1b1f36b58550944385f98cb211bf7c1e00000000"/>
+		<Metadata name="Configuration.Дневник.ManagedApplicationModule" id="ff1c2005-4f78-464c-bb5e-b1de22f1e16a.6" configVersion="1ac85e8d8df3a14980dd046d577e70f700000000"/>
+		<Metadata name="Language.Русский" id="984c4694-8c35-4d80-a6c8-eae9c9a05ec3" configVersion="c0c652fc7a884840a8124f4dbb0ec57400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
