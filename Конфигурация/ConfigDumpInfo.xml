@@ -2,12 +2,26 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9.1">
 	<ConfigVersions>
 		<Metadata name="Catalog.Кабинеты" id="4e18953e-268d-42cd-8629-01db7882f110" configVersion="5525f5822e97fc4aa22e63cc42ca125e00000000"/>
-		<Metadata name="Catalog.Предметы" id="5c74c738-8019-45b5-bca9-b1fc91833075" configVersion="980fb542d23a2241957e0eef27d23d4400000000"/>
-		<Metadata name="Catalog.УчебныеДни" id="bb341e55-db58-4731-9c6c-a3a313b6134f" configVersion="fd99aa15a6355840926830fe2086d2f400000000"/>
+		<Metadata name="Catalog.Предметы" id="5c74c738-8019-45b5-bca9-b1fc91833075" configVersion="f56eefe1969fd546b78c7d0b3ada038f00000000">
+			<Metadata name="Catalog.Предметы.Attribute.Кабинет" id="308d7be0-0bdd-4378-8aec-f6421102b469"/>
+			<Metadata name="Catalog.Предметы.Attribute.Учитель" id="63a8bbf1-bdd6-42dc-ba58-a57ca113dd04"/>
+		</Metadata>
 		<Metadata name="Catalog.Учителя" id="dfb00e17-8fe9-4842-88f4-d9fe69c0cb87" configVersion="08132e692eaa7040ad6864eec2a73b9800000000"/>
-		<Metadata name="Configuration.Дневник" id="9d3403f7-4620-4770-b588-3832516318b1" configVersion="0611c3ac729a43468ec648cf32deb51200000000"/>
-		<Metadata name="Configuration.Дневник.MainSectionCommandInterface" id="ff1c2005-4f78-464c-bb5e-b1de22f1e16a.9" configVersion="1b1f36b58550944385f98cb211bf7c1e00000000"/>
-		<Metadata name="Configuration.Дневник.ManagedApplicationModule" id="ff1c2005-4f78-464c-bb5e-b1de22f1e16a.6" configVersion="1ac85e8d8df3a14980dd046d577e70f700000000"/>
+		<Metadata name="Configuration.Дневник" id="9d3403f7-4620-4770-b588-3832516318b1" configVersion="abe746288457fd4ab48b548775cdce1a00000000"/>
+		<Metadata name="Configuration.Дневник.HomePageWorkArea" id="ff1c2005-4f78-464c-bb5e-b1de22f1e16a.8" configVersion="c810a4f377139746b63818b3c25facb000000000"/>
+		<Metadata name="Configuration.Дневник.MainSectionCommandInterface" id="ff1c2005-4f78-464c-bb5e-b1de22f1e16a.9" configVersion="21ac8bd952c25244aaf93fe390c32c8800000000"/>
+		<Metadata name="Configuration.Дневник.ManagedApplicationModule" id="ff1c2005-4f78-464c-bb5e-b1de22f1e16a.6" configVersion="83c8b78326f0b54db76c125ed02fe4df00000000"/>
+		<Metadata name="Document.УчебныйДень" id="a507e05d-367b-438e-862a-63e239602985" configVersion="f676a0d0606d9e489baf34188804d03800000000">
+			<Metadata name="Document.УчебныйДень.TabularSection.Уроки.Attribute.ДомашнееЗадание" id="4631f1c0-3ed5-492d-819e-662c417f6ca9"/>
+			<Metadata name="Document.УчебныйДень.TabularSection.Уроки.Attribute.КомментарийУчителя" id="80796afc-fb3a-4ab2-848e-5706cba9b4ab"/>
+			<Metadata name="Document.УчебныйДень.TabularSection.Уроки.Attribute.Предмет" id="b73fdc5f-ff5c-446c-a4e1-813dbb95fff8"/>
+			<Metadata name="Document.УчебныйДень.TabularSection.Уроки.Attribute.Оценка" id="c7cf251b-bb4f-4f1c-b12e-98982d6876ea"/>
+			<Metadata name="Document.УчебныйДень.TabularSection.Уроки" id="cb898549-b0d0-4b30-8c8e-cdff311dc498"/>
+		</Metadata>
+		<Metadata name="Document.УчебныйДень.Form.ФормаДокумента" id="4b8eea06-c07e-415c-b8da-a4da7c4f911d" configVersion="be750f8af4158c4e94d183b58cf74bf200000000"/>
+		<Metadata name="Document.УчебныйДень.Form.ФормаДокумента.Form" id="4b8eea06-c07e-415c-b8da-a4da7c4f911d.0" configVersion="fe337fe0b27b014db2a851f31d0481fe00000000"/>
+		<Metadata name="Document.УчебныйДень.Form.ФормаСписка" id="95529379-5d30-4aa8-b041-2afeafdcab81" configVersion="3b4ae8f0b0fd834a9696f760d02211d100000000"/>
+		<Metadata name="Document.УчебныйДень.Form.ФормаСписка.Form" id="95529379-5d30-4aa8-b041-2afeafdcab81.0" configVersion="904b572f08e4164d9efe330ec62faea400000000"/>
 		<Metadata name="Language.Русский" id="984c4694-8c35-4d80-a6c8-eae9c9a05ec3" configVersion="c0c652fc7a884840a8124f4dbb0ec57400000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
