@@ -7,10 +7,10 @@
 			<Metadata name="Catalog.Предметы.Attribute.Учитель" id="63a8bbf1-bdd6-42dc-ba58-a57ca113dd04"/>
 		</Metadata>
 		<Metadata name="Catalog.Учителя" id="dfb00e17-8fe9-4842-88f4-d9fe69c0cb87" configVersion="08132e692eaa7040ad6864eec2a73b9800000000"/>
-		<Metadata name="Configuration.Дневник" id="9d3403f7-4620-4770-b588-3832516318b1" configVersion="abe746288457fd4ab48b548775cdce1a00000000"/>
+		<Metadata name="Configuration.Дневник" id="9d3403f7-4620-4770-b588-3832516318b1" configVersion="0b18d3b9c3bab94b95241727b465ce7200000000"/>
 		<Metadata name="Configuration.Дневник.HomePageWorkArea" id="ff1c2005-4f78-464c-bb5e-b1de22f1e16a.8" configVersion="c810a4f377139746b63818b3c25facb000000000"/>
 		<Metadata name="Configuration.Дневник.MainSectionCommandInterface" id="ff1c2005-4f78-464c-bb5e-b1de22f1e16a.9" configVersion="21ac8bd952c25244aaf93fe390c32c8800000000"/>
-		<Metadata name="Configuration.Дневник.ManagedApplicationModule" id="ff1c2005-4f78-464c-bb5e-b1de22f1e16a.6" configVersion="83c8b78326f0b54db76c125ed02fe4df00000000"/>
+		<Metadata name="Configuration.Дневник.ManagedApplicationModule" id="ff1c2005-4f78-464c-bb5e-b1de22f1e16a.6" configVersion="97fc5e423c7c8844be00fcd75b88929b00000000"/>
 		<Metadata name="Document.УчебныйДень" id="a507e05d-367b-438e-862a-63e239602985" configVersion="f676a0d0606d9e489baf34188804d03800000000">
 			<Metadata name="Document.УчебныйДень.TabularSection.Уроки.Attribute.ДомашнееЗадание" id="4631f1c0-3ed5-492d-819e-662c417f6ca9"/>
 			<Metadata name="Document.УчебныйДень.TabularSection.Уроки.Attribute.КомментарийУчителя" id="80796afc-fb3a-4ab2-848e-5706cba9b4ab"/>
